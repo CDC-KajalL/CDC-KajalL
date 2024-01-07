@@ -5,6 +5,26 @@
 <h3 align="center"><img src="https://github.com/CDC-KajalL/CDC-KajalL/assets/149703593/4c32dd2e-18ed-4c55-859e-164facd50c41" height=200></h3>
 <br/>
 
+> 💙Hey Hare Krishna, I'm Kajal Lanjhiyana.<br/>
+> 💙3rd year Undergrad<br/>
+> 💙Ask me about Krishna Conciousness or anything related to Tech :)<br/>
+> 💙Fun Facts: I love soil🤎<br/>
+
+How to reach out me?
+<h3 align = "left">Connect with me here:  <br/>
+<a href = "https://linktr.ee/__kajal_lanjhiyana_"> Linktree</a>
+    <h4> Or just Directly jump on..</h4>
+<a href="https://www.linkedin.com/in/radheykd-kajal/">
+    <img align="left" alt="Kajal Lanjhiyana | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
+  </a>
+   <a href="https://twitter.com/__Kajal_L">
+    <img align="left" alt="Kajal Lanjhiyana | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
+</a> 
+<a href="https://www.instagram.com/_kajal_lanjhiyana__/">
+    <img align="left" alt="Kajal Lanjhiyana | Instagram" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
+</a> 
+<a href="https://medium.com/@radheykd-Kajal" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="Kajal Lanjhiyana" height="25" width="25" /></a>
+<br></h3>
 <h2 align="left" id="macropower-tech">Favorite Tech</h2>
 
 > Tools, languages, and other things that I like to work with.
