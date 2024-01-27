@@ -45,3 +45,9 @@ How to reach out me?
 <a href="https://dev.mysql.com/" title="MySQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/mysql.svg" alt="MySQL" width="50px" height="50px"></a>
 <a href="https://www.postgresql.org/" title="PostgreSQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/postgresql.svg" alt="PostgreSQL" width="50px" height="50px"></a>
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://github.com/get-icon/geticon/raw/master/icons/visual-studio-code.svg" alt="Visual Studio Code" width="50px" height="50px"></a>
+
+<h1 align="center"> Kajal Lanjhiyana's GitHub Activity (⁠ﾉ⁠◕⁠ヮ⁠◕⁠)⁠ﾉ⁠*⁠.⁠✧</h1>  
+<p align="center"><a href="https://github.com/CDC-KajalL">
+<img width=40% src="https://github-readme-stats.vercel.app/api/top-langs?username=CDC-KajalL&show_icons=true&locale=en&layout=compact" alt="CDC-KajalL" />
+<img width=48% src="https://github-readme-stats.vercel.app/api?username=CDC-KajalL&show_icons=true&locale=en" alt="CDC-KajalL" />
+<img width=40% src="https://github-readme-streak-stats.herokuapp.com/?user=CDC-KajalL&" alt="CDC-KajalL" /></p>
